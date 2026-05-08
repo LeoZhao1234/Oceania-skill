@@ -1,0 +1,36 @@
+Amazon_IP_Infringement_Library.txt
+
+【AMAZON IP INFRINGEMENT & BRAND SAFETY LIBRARY】
+Purpose: Identify high-risk brands and provide safe "compatibility" templates.
+[cite_start]Source Reference: [cite: 15]
+
+1. GLOBAL IP RULES
+--------------------------------------------------
+[HARD_BAN]
+- Do NOT use competitor brand names in Title/Bullets/Description unless using the "Compatibility" format.
+- [cite_start]Do NOT use competitor brand names in Backend Search Terms (This is trademark abuse). [cite: 16]
+- [cite_start]Do NOT use "Official", "Genuine", "Authorized", or "OEM" unless you have explicit authorization. [cite: 16]
+
+2. SAFE COMPATIBILITY TEMPLATES
+--------------------------------------------------
+[RULE] You may use a brand name ONLY to indicate compatibility.
+[SAFE_FORMAT]
+- "Compatible with [Brand] [Model]"
+- "Replacement for [Brand] [Model]"
+- "Fits [Brand] [Model]"
+[UNSAFE_FORMAT]
+- "[Brand] Case" (e.g., "iPhone Case" is risky; use "Case for iPhone")
+- [cite_start]"[Brand] Filter" (e.g., "Dyson Filter" is risky; use "Filter for Dyson") [cite: 17]
+
+3. TRADEMARKED "COMMON" WORDS (DO NOT USE)
+--------------------------------------------------
+[cite_start]Velcro, Onesie, ChapStick, Kleenex, Band-Aid, Q-Tips, Teflon, Gore-Tex, Post-it, Plexiglas, Popsicle, Thermos, Super Glue, Ping-Pong. [cite: 15]
+
+4. HIGH-RISK BRAND WATCHLIST
+--------------------------------------------------
+[cite_start][TECH] Apple, iPhone, iPad, AirPods, Samsung, Galaxy, Google, Android, Microsoft, Xbox, Sony, PlayStation, Nintendo, Switch, GoPro, DJI. [cite: 15]
+[cite_start][LUXURY] Louis Vuitton, Gucci, Chanel, Prada, Hermes, Dior, Rolex, Omega. [cite: 18]
+[cite_start][SPORTS] Nike, Adidas, Under Armour, Lululemon, NFL, NBA, FIFA, Olympics, Super Bowl. [cite: 15]
+[cite_start][ENTERTAINMENT] Disney, Marvel, Star Wars, Frozen, Mickey Mouse, Harry Potter, LEGO, Pokémon, Fortnite, Minecraft, Bluey, Paw Patrol. [cite: 15]
+[cite_start][HOME] Dyson, KitchenAid, Keurig, Ninja, Stanley, YETI. [cite: 15]
+

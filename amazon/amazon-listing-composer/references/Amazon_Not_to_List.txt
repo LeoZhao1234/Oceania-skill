@@ -1,0 +1,130 @@
+一、 促销与主观评价类 (Promotional & Subjective Claims)
+
+亚马逊规定Listing必须是对产品的客观描述，禁止包含任何促销信息或无法证实的主观评价。
+
+[严禁出现]：
+
+- Best seller, Top rated, Best selling, #1 (最畅销/排名第一)
+
+- Hot item, Popular choice (爆款)
+
+- Free shipping, Free delivery (包邮)
+
+- Free gift, Bonus, Gift included (赠品)
+
+- On sale, Discount, x% off, Best price, Lowest price, Cheap (促销/打折/低价)
+
+- Satisfaction Guarantee, 100% Quality, Money back (满意度保证/退款保证)
+
+- Order now, Buy now (诱导购买动词)
+
+- Amazon's Choice, Certified (官方认证词)
+
+
+
+二、 知识产权与品牌兼容性 (Intellectual Property)
+
+严禁未经授权使用他人的商标、品牌名。
+
+[严禁出现]：
+
+- 任何非本产品的品牌名称（如：Nike, Disney, Apple, Lego, Velcro等）。
+
+- Velcro (维可牢/魔术贴)：必须改为 "hook and loop"。
+
+- Onesie (连体衣)：必须改为 "bodysuit" 或 "romper"。
+
+- Hula Hoop (呼啦圈)：必须改为 "toy hoop"。
+
+- Chapstick (润唇膏)：必须改为 "lip balm"。
+
+- Q-tip (棉签)：必须改为 "cotton swab"。
+
+- Popsicle (冰棍)：必须改为 "ice pop"。
+
+
+
+[配件兼容性正确写法]：
+
+- 错误写法："[Brand Name] Case" (例如 iPhone 15 Case) -> 会被判定为侵权。
+
+- 正确写法："Case compatible with [Brand Name]" 或 "Case for [Brand Name]"。
+
+- 注意：品牌名之前必须有 "compatible with" 或 "for"。
+
+
+
+三、 医疗器械与功效敏感词 (Medical & Health Claims)
+
+非OTC药品或未获得FDA认证的医疗器械，严禁暗示治疗、预防或治愈疾病的功能。
+
+[严禁出现]：
+
+- Cure, Heal, Treat, Treatment, Remedy (治愈/治疗/疗法)
+
+- Prevent, Prevention (预防)
+
+- Relief, Relieve, Stop pain (止痛/缓解 - 除非是合规OTC)
+
+- Anti-virus, Anti-flu, Anti-inflammatory (抗病毒/消炎)
+
+- FDA approved, FDA cleared (除非有真实证书并已备案，否则严禁使用)
+
+- 涉及具体病症名称：Cancer, Diabetes, Arthritis 等。
+
+
+
+四、 杀虫剂与生物杀灭剂敏感词 (Pesticide & Biocides)
+
+这是亚马逊最容易误杀的重灾区。任何暗示能“杀灭、驱除、抑制”生物（细菌、霉菌、昆虫）的词，都会被判定为杀虫剂，需要EPA注册号。
+
+[严禁出现（除非你有EPA号）]：
+
+- Anti-bacterial, Anti-microbial (抗菌/抗微生物)
+
+- Anti-fungal, Mold resistant (抗霉菌/防霉)
+
+- Anti-dust mite (防尘螨)
+
+- Insect repellent, Bug stop (驱蚊/防虫)
+
+- Disinfect, Sanitize, Sterilize (消毒/杀菌)
+
+- Non-toxic (无毒)：极易触发审核，建议改为 "BPA Free" 或 "Safe material"。
+
+- Safe, Healthy, Harmless (绝对化安全用语)
+
+
+
+五、 环保声明 (Green Guidelines)
+
+根据FTC指南和亚马逊政策，禁止使用模糊、无依据的环保词汇。
+
+[严禁出现（除非有具体证书）]：
+
+- Eco-friendly (环保的 - 极其敏感)
+
+- Environmentally friendly (环境友好)
+
+- Green (绿色的/环保的)
+
+- Biodegradable (可生物降解 - 需证明降解时间)
+
+- Compostable (可堆肥)
+
+- Sustainable (可持续的)
+
+[建议替代]：使用具体的材质描述，如 "Made of 100% natural bamboo", "Recycled paper packaging"。
+
+
+
+六、 其他违规信息
+
+- 任何具体的联系方式：Phone number, Email, Website URL。
+
+- 任何诱导留评的词语：Leave a review, Feedback。
+
+- 时效性文字：New, Newest version (仅在新品期极短时间内允许，建议不用)。
+
+- 全大写单词：除品牌名外，避免通篇全大写。
+

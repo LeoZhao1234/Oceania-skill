@@ -1,0 +1,40 @@
+Amazon_Style_Guide.txt
+
+【AMAZON LISTING STYLE GUIDE 2025】
+Purpose: Formatting standards for Title, Bullets, Description, and Images.
+[cite_start]Source Reference: [cite: 25]
+
+1. TITLE STRUCTURE
+--------------------------------------------------
+[FORMULA]
+[Brand] + [Core Product] + [Key Differentiator] + [Size/Color/Pack] + [Use Case]
+[REQUIREMENTS]
+- [cite_start]Start with Brand Name. [cite: 30]
+- [cite_start]Max 200 characters. [cite: 30]
+- [cite_start]Capitalize first letter of each word (Title Case). [cite: 33]
+- [cite_start]Use numerals (e.g., "2" instead of "two"). [cite: 34]
+
+2. BULLET POINTS (5 POINTS)
+--------------------------------------------------
+[STRUCTURE]
+1. WHAT IT IS: Core benefit + main use case.
+2. WHAT'S INCLUDED: Pack count + specific components.
+3. SPECIFICATIONS: Size, dimensions, compatibility.
+4. HOW TO USE: Installation or usage steps.
+5. [cite_start]CARE/SAFETY: Maintenance notes + limitations. [cite: 33]
+[STYLE]
+- [cite_start]Start with a capitalized header (e.g., "EASY TO INSTALL —"). [cite: 34]
+- [cite_start]Focus on FACTS (dimensions, materials) over fluff (amazing, perfect). [cite: 26]
+
+3. IMAGES & VIDEO
+--------------------------------------------------
+[MAIN_IMAGE] Pure white background, product only. [cite_start]No text, badges, or watermarks. [cite: 35]
+[TEXT_ON_IMAGES]
+- OK: Sizes, material names, "What's in the box".
+- [cite_start]BAN: "Best Seller", "Amazon's Choice", Price, Promotion. [cite: 36]
+
+4. BACKEND SEARCH TERMS
+--------------------------------------------------
+- [cite_start]Length: Under 249 bytes. [cite: 37]
+- Syntax: Single spaces between words. [cite_start]NO commas. [cite: 37]
+- Content: Synonyms, spelling variations, abbreviations. [cite_start]NO competitor brands. [cite: 37]

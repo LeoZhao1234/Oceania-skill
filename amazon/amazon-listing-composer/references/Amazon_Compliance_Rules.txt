@@ -1,0 +1,46 @@
+Amazon_Compliance_Rules.txt
+
+【AMAZON COMPLIANCE RULES & FORBIDDEN TERMS】
+Purpose: Hard interception for Title, Bullets, Description, Images, and Backend Keywords.
+[cite_start]Source Reference: [cite: 1]
+
+1. HARD BANS (Content Types)
+--------------------------------------------------
+1.1 Contact Info & Traffic Diversion
+[RULE] Strictly PROHIBITED: Phone numbers, emails, URLs, QR codes, or social media handles.
+[REGEX_TRIGGERS]
+- URL: (http|https)://|www\.|\.com\b|\.net\b|\.io\b|\.cn\b
+- Email: [A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}
+- [cite_start]Social Keywords: whatsapp|wechat|line|telegram|instagram|tiktok|facebook|dm me [cite: 2]
+
+1.2 Price & Availability Claims
+[RULE] Do not hardcode price/stock status in text or images.
+[cite_start][FORBIDDEN_WORDS] price, cheapest, discount, sale, deal, coupon, free shipping, fast delivery, in stock, available now, limited time. [cite: 2]
+
+1.3 Competitor Bashing
+[RULE] No comparisons. Describe your product facts only.
+[cite_start][FORBIDDEN_PATTERNS] better than [Brand], compare to [Brand], beats [Brand], cheaper than [Brand]. [cite: 2]
+
+2. TITLE SPECIFIC RULES
+--------------------------------------------------
+[HARD_RULES]
+- [cite_start]Max Length: 200 characters. [cite: 3]
+- No Special Chars: ! $ ? [cite_start]_ { } ^ ¬ ¦ [cite: 3]
+- [cite_start]No Repetition: Do not repeat the same word >2 times. [cite: 3]
+- [cite_start]No Promo Words: best, #1, top rated, hot, amazing. [cite: 3]
+
+3. BACKEND SEARCH TERMS (STRICT)
+--------------------------------------------------
+[HARD_BAN]
+- [cite_start]NO Competitor Brands (e.g., Nike, Lego). [cite: 4]
+- [cite_start]NO ASINs or Product IDs. [cite: 4]
+- [cite_start]NO Temporary words: new, on sale, available now. [cite: 4]
+- [cite_start]NO Subjective claims: best, amazing, cheapest. [cite: 4]
+
+4. PROMOTIONAL & SUBJECTIVE BANS
+--------------------------------------------------
+[BLOCKLIST]
+buy now, order now, add to cart, click here, hurry, limited time, today only,
+#1, number one, best seller, top rated, most popular, trending, viral,
+[cite_start]guaranteed, 100% guaranteed, money back, risk-free, lifetime warranty. [cite: 5]
+
