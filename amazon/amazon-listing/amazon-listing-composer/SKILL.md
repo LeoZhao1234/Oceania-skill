@@ -215,6 +215,22 @@ How listing addresses it: [brief mapping per section]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+## Step 6 — Save Output to File
+
+After the listing draft is finalized (post-compliance sweep, and after the optional Competitor Insight Summary if the user requested it), write the complete output to a Markdown file.
+
+**File name format:** `[brand-slug]-listing-[YYYYMMDD].md`
+- `brand-slug`: brand name lowercased, spaces replaced with hyphens (e.g. `zelus`, `cap-barbell`)
+- `YYYYMMDD`: today's date
+- Example: `zelus-listing-20260506.md`
+
+**Save location:** same directory as the product spec file the user provided. If that path cannot be determined, save to the current working directory.
+
+**File content:** the full listing draft block (title, bullets, description, specifications, FAQ, backend terms), plus the Competitor Insight Summary block if the user requested it. Preserve the `━━━` section dividers exactly as shown in the Output Format.
+
+After saving, confirm to the user:
+> "Listing saved to `[full file path]`."
+
 ## Hard Constraints
 
 - Never invent a feature not present in the product spec file
